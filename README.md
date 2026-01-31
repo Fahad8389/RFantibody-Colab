@@ -2,7 +2,7 @@
 
 Structure-based *de novo* antibody and nanobody design on Google Colab - no Docker required.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fahad8389/RFantibody-Colab/blob/main/RFantibody_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1l6olMaYtisyOcNyfTrnPtvkWck_aknag#scrollTo=3BorcthroHA4)
 
 ## What is this?
 
